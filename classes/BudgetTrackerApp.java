@@ -1,3 +1,7 @@
+
+//the mockups are in the mock ups folder inside the classes folder//
+
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
@@ -155,3 +159,4 @@ public class BudgetTrackerApp extends Application {
         launch(args);
     }
 }
+
